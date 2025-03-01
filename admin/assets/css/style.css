@@ -1,0 +1,71 @@
+/* Custom styles */
+.bg-menu-theme {
+  background-color: #ffffff !important;
+}
+
+.bg-navbar-theme {
+  background-color: #ffffff !important;
+}
+
+.bg-footer-theme {
+  background-color: #ffffff !important;
+}
+
+.menu .app-brand.demo {
+  height: 64px;
+}
+
+.app-brand-text.demo {
+  font-size: 1.75rem;
+  letter-spacing: -0.5px;
+}
+
+.layout-navbar-fixed .layout-wrapper:not(.layout-horizontal):not(.layout-without-menu) .layout-page {
+  padding-top: 76px !important;
+}
+
+.layout-navbar-fixed .layout-wrapper:not(.layout-without-menu) .layout-page {
+  padding-top: 76px !important;
+}
+
+/* Navbar Search */
+.navbar-nav-right .navbar-nav .nav-item:first-child {
+  flex-grow: 1;
+}
+
+.navbar-nav-right .navbar-nav .nav-item:first-child .nav-link {
+  padding: 0;
+}
+
+/* Add animation to charts */
+.apexcharts-canvas {
+  transition: all 0.3s ease;
+}
+
+/* Custom card hover effects */
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+/* Custom avatar sizes */
+.avatar.avatar-online:before {
+  right: 3px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1199.98px) {
+  .layout-menu-toggle {
+    display: block !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .navbar-nav-right {
+    flex-direction: row !important;
+  }
+}
