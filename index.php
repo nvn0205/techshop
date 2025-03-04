@@ -162,3 +162,4 @@ require_once 'functions.php';
 
 <?php include 'footer.php'; ?>
 REM Update 4 - Improve homepage 
+REM Update 4 - Improve homepage 
