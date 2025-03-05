@@ -278,3 +278,4 @@ function buyNow(productId) {
 </script>
 
 <?php include 'footer.php'; ?>REM Update 5 - Fix product detail display 
+REM Update 5 - Fix product detail display 
