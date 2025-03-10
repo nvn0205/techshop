@@ -267,3 +267,4 @@ include 'header.php';
 
 <?php include 'footer.php'; ?>
 REM Update 10 - Improve search functionality 
+REM Update 10 - Improve search functionality 
