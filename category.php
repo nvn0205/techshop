@@ -231,3 +231,4 @@ include 'header.php';
 
 <?php include 'footer.php'; ?>
 REM Update 11 - Add category pagination 
+REM Update 11 - Add category pagination 
