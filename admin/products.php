@@ -217,3 +217,4 @@ require_once 'layout/header.php';
 </div>
 
 <?php require_once 'layout/footer.php'; ?>REM Update 13 - Add product CRUD operations 
+REM Update 13 - Add product CRUD operations 
