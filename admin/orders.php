@@ -355,3 +355,4 @@ function deleteOrder(orderId) {
 
 </div>
 </div>REM Update 14 - Manage orders 
+REM Update 14 - Manage orders 
