@@ -258,3 +258,4 @@ function increaseQuantity(maxStock, productId) {
         }
     }
 }REM Update 17 - Add JavaScript functionality 
+REM Update 17 - Add JavaScript functionality 
