@@ -183,3 +183,4 @@ $categories = getAllCategories();
 
     <!-- Main content container -->
     <main class="py-4">REM Update 18 - Improve header 
+REM Update 18 - Improve header 
