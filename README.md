@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍎 TechShop - Website Bán Hàng Công Nghệ
 
 Website bán hàng công nghệ xây dựng bằng PHP
@@ -339,19 +338,3 @@ Project này được phân phối dưới giấy phép MIT. Xem file `LICENSE` 
 ---
 
 **Made with ❤️ by NVN** 🍎
-=======
-# techshop
-TechShop e-commerce website with PHP
->>>>>>> f0f92e45cd3a30bb0a574951134a8efd2bbbee70
-Cập nhật giao diện trang chủ
-Sửa lỗi hiển thị sản phẩm
-Thêm chức năng đăng ký
-Tối ưu truy vấn database
-Cập nhật README
-Thêm phân trang cho sản phẩm
-Fix bug giỏ hàng
-Cải thiện responsive
-Thêm chức năng tìm kiếm
-Cập nhật file .gitignore
-REM Update 1 - Update README 
-REM Update 1 - Update README 
