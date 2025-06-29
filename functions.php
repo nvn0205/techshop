@@ -743,7 +743,4 @@ function getStatusClass($status) {
             return 'secondary';
     }
 }
-?>REM Update 3 - Add product handling functions 
-REM Update 20 - Optimize database queries 
-REM Update 3 - Add product handling functions 
-REM Update 20 - Optimize database queries 
+?>

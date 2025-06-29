@@ -182,5 +182,4 @@ $categories = getAllCategories();
     </div>
 
     <!-- Main content container -->
-    <main class="py-4">REM Update 18 - Improve header 
-REM Update 18 - Improve header 
+    <main class="py-4">

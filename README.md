@@ -298,17 +298,29 @@ techshop/
 
 ### Frontend
 - Trang chủ với banner slider và sản phẩm nổi bật
+![Trang chủ](https://i.imgur.com/p3YtVic.png)
 - Danh sách sản phẩm với bộ lọc và tìm kiếm
+![Danh sách sản phẩm](https://i.imgur.com/e7zwq5F.png)
 - Chi tiết sản phẩm với gallery ảnh
+![Chi tiết sản phẩm](https://i.imgur.com/LwwlMmy.png)
 - Giỏ hàng và checkout
+![Giỏ hàng](https://i.imgur.com/YCL0CDN.png)
+![Trang thanh toán](https://i.imgur.com/YkO1ndW.png)
 - Trang đăng nhập/đăng ký
+![Trang đăng nhập](https://i.imgur.com/YkO1ndW.png)
+![Trang đăng ký](https://i.imgur.com/id9U82Q.png)
 
 ### Admin Dashboard
 - Dashboard tổng quan với thống kê
+![Dashboard](https://i.imgur.com/uyPI1Eb.png)
 - Quản lý sản phẩm với CRUD operations
+![Quản lý sản phẩm](https://i.imgur.com/ykzV0FY.png)
 - Quản lý đơn hàng với cập nhật trạng thái
+![Quản lý đơn hàng](https://i.imgur.com/8NyRsNj.png)
 - Thống kê với biểu đồ ApexCharts
+![Thống kê](https://i.imgur.com/Q2dNrbT.png)
 - Quản lý người dùng
+![Quản lý người dùng](https://i.imgur.com/p78TcR0.png)
 
 ## 🤝 Đóng góp
 

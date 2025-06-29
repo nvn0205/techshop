@@ -257,5 +257,4 @@ function increaseQuantity(maxStock, productId) {
             quantityInput.value = currentValue + 1;
         }
     }
-}REM Update 17 - Add JavaScript functionality 
-REM Update 17 - Add JavaScript functionality 
+}
