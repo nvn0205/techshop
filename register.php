@@ -138,5 +138,3 @@ include 'header.php';
 </div>
 
 <?php include 'footer.php'; ?>
-REM Update 9 - Add registration validation 
-REM Update 9 - Add registration validation 

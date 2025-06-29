@@ -240,5 +240,4 @@ require_once 'layout/sidebar.php';
   </div>
 </div>
 
-<?php require_once 'layout/footer.php'; ?>REM Update 15 - Manage users 
-REM Update 15 - Manage users 
+<?php require_once 'layout/footer.php'; ?>

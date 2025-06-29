@@ -235,5 +235,3 @@ include 'header.php';
 </div>
 
 <?php include 'footer.php'; ?>
-REM Update 7 - Update checkout page 
-REM Update 7 - Update checkout page 

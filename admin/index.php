@@ -241,5 +241,4 @@ require_once 'layout/header.php';
     </div>
     <!-- / Content -->
 
-<?php require_once 'layout/footer.php'; ?>REM Update 12 - Update admin dashboard 
-REM Update 12 - Update admin dashboard 
+<?php require_once 'layout/footer.php'; ?>

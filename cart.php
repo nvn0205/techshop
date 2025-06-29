@@ -180,5 +180,3 @@ function increaseQuantity(productId) {
 </script>
 
 <?php include 'footer.php'; ?>
-REM Update 6 - Add shopping cart functionality 
-REM Update 6 - Add shopping cart functionality 
