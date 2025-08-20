@@ -41,7 +41,6 @@ error_log
 access_log
 
 # Composer
-vendor/
 composer.lock
 
 # Node modules (if any)
